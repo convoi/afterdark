@@ -31,8 +31,7 @@ object DBSchema extends Schema {
     SessionFactory.concreteFactory = Some(()=>
       Session.create(DriverManager.getConnection("..."), new H2Adapter)
     )
-
-
+    create
   }
 
 }
