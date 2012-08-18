@@ -1,7 +1,4 @@
-package com.blocksberg.afterdark.storage.scan
-
-import com.sun.org.apache.bcel.internal.generic.AALOAD
-import javax.swing.UIDefaults.LazyInputMap
+package com.blocksberg.afterdark.storage.hash
 
 /**
  * Created by IntelliJ IDEA.
